@@ -39,7 +39,7 @@ def output_combined_csv(combined_df):
 # Main function
 def main():
     # Directory containing CSV files
-    directory = 'path_to_directory'
+    directory = '/Users/andrewspurr/Library/Mobile Documents/com~apple~CloudDocs/Finance/March_24'
     
     # Combine CSV files
     combined_df = combine_csv_files(directory)
